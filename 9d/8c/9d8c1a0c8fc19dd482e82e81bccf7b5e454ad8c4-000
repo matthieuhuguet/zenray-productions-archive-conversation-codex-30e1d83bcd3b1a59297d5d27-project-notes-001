@@ -178,3 +178,35 @@
 > **La prochaine preuve décisive est le mail original**, absent de la boîte Gmail connectée ici. Transmets-le en fichier `.eml`, avec ses en-têtes, pour que je vérifie son authenticité. Il faudra ensuite obtenir d’Anthropic l’heure de l’activité suspecte et le type de session concerné afin de les rapprocher des traces du Mac. (7 October 2026, 08:55:55 +0200)
 >
 > J’ai conservé les [preuves et rapports](/Users/zenray/.claude/tmp/tmp-conversation-codex-30e1d83bcd3b1a59297d5d27/SecurityAudit.md). En attendant, sécurise ton adresse mail et révoque les sessions depuis un appareil de confiance : **un scan négatif n’annule pas une session déjà volée**, mécanisme décrit par [Malwarebytes](https://www.malwarebytes.com/blog/news/2026/09/infostealers-are-hijacking-claude-accounts-at-users-expense). (7 October 2026, 08:55:55 +0200)
+
+## 7 October 2026, 11:43:38 +0200 : Prompt
+
+<!-- feedback-event:090fc54bf6fe75478198c06e009b0a870d097aa02b76d456cf34712e819a98b2 (7 October 2026, 11:43:38 +0200) -->
+- Project: conversation-codex-30e1d83bcd3b1a59297d5d27; kind: prompt. (7 October 2026, 11:43:38 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/07/rollout-2026-10-07T08-35-23-01a11512-e805-7982-9f7a-8283895cd8ee.jsonl. (7 October 2026, 11:43:38 +0200)
+
+> <external_codex_apps_open_page>{"page_id":null}</external_codex_apps_open_page> (7 October 2026, 11:43:38 +0200)
+
+## 7 October 2026, 11:43:38 +0200 : Prompt
+
+<!-- feedback-event:ff73e9cba693a47d6ed0913a7302d950bcb43640836e3771ccd7e1f8f8c1b3cb (7 October 2026, 11:43:38 +0200) -->
+- Project: conversation-codex-30e1d83bcd3b1a59297d5d27; kind: prompt. (7 October 2026, 11:43:38 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/07/rollout-2026-10-07T08-35-23-01a11512-e805-7982-9f7a-8283895cd8ee.jsonl. (7 October 2026, 11:43:38 +0200)
+
+> [$quit-programs](/Users/zenray/.codex/skills/quit-programs/SKILL.md) tout sauf cette instance et crossover que je lance go (7 October 2026, 11:43:38 +0200)
+
+## 7 October 2026, 11:44:21 +0200 : Iteration
+
+<!-- feedback-event:f9f1ab2e4365bcf3fdd137401f67956975cac47683d25d0ee65ad237972805e5 (7 October 2026, 11:44:21 +0200) -->
+- Project: conversation-codex-30e1d83bcd3b1a59297d5d27; kind: iteration. (7 October 2026, 11:44:21 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/07/rollout-2026-10-07T08-35-23-01a11512-e805-7982-9f7a-8283895cd8ee.jsonl. (7 October 2026, 11:44:21 +0200)
+
+> 11 applications fermées, vérification faite. Cette instance de ChatGPT et CrossOver restent ouverts ; Finder et la protection antivirus en arrière-plan sont conservés. (7 October 2026, 11:44:21 +0200)
+
+## 7 October 2026, 11:44:21 +0200 : Iteration
+
+<!-- feedback-event:b0eb2f487daca56818916ae5cfd88cc1b97cec61d690be43e4504a3818823043 (7 October 2026, 11:44:21 +0200) -->
+- Project: conversation-codex-30e1d83bcd3b1a59297d5d27; kind: iteration. (7 October 2026, 11:44:21 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/07/rollout-2026-10-07T08-35-23-01a11512-e805-7982-9f7a-8283895cd8ee.jsonl. (7 October 2026, 11:44:21 +0200)
+
+> 11 applications fermées, vérification faite. Cette instance de ChatGPT et CrossOver restent ouverts ; Finder et la protection antivirus en arrière-plan sont conservés. (7 October 2026, 11:44:21 +0200)
