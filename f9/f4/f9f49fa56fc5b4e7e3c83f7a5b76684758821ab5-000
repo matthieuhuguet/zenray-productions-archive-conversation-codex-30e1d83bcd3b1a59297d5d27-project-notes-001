@@ -1,0 +1,23 @@
+{
+ "schemaVersion": 1,
+ "projectId": "conversation-codex-30e1d83bcd3b1a59297d5d27",
+ "scannedAt": "2026-10-07T08:30:25.776Z",
+ "conversations": [
+  {
+   "projectId": "conversation-codex-30e1d83bcd3b1a59297d5d27",
+   "lines": 53,
+   "work": 25,
+   "prompts": 0,
+   "first": "2026-10-07T06:36:54.240Z",
+   "last": "2026-10-07T06:55:55.841Z",
+   "strength": "strong",
+   "conversationId": "codex:01a11512-e805-7982-9f7a-8283895cd8ee",
+   "provider": "codex",
+   "sessionId": "01a11512-e805-7982-9f7a-8283895cd8ee",
+   "title": "Conversation codex 01a11512",
+   "updatedAt": "2026-10-07T06:55:55.841Z",
+   "bytes": 2517792,
+   "boundProject": "conversation-codex-30e1d83bcd3b1a59297d5d27"
+  }
+ ]
+}
