@@ -1,22 +1,38 @@
 {
  "schemaVersion": 1,
  "projectId": "conversation-codex-30e1d83bcd3b1a59297d5d27",
- "scannedAt": "2026-10-07T09:44:53.028Z",
+ "scannedAt": "2026-10-26T12:58:44.404Z",
  "conversations": [
   {
    "projectId": "conversation-codex-30e1d83bcd3b1a59297d5d27",
-   "lines": 53,
-   "work": 25,
+   "lines": 1,
+   "work": 0,
    "prompts": 0,
-   "first": "2026-10-07T06:36:54.240Z",
-   "last": "2026-10-07T06:55:55.841Z",
-   "strength": "strong",
+   "first": "2026-10-11T22:40:52.468Z",
+   "last": "2026-10-11T22:40:52.468Z",
+   "strength": "weak",
+   "conversationId": "claude:af61e9e4-17cb-46aa-b66a-922874eb123f",
+   "provider": "claude",
+   "sessionId": "af61e9e4-17cb-46aa-b66a-922874eb123f",
+   "title": "ZENRAY ASSETS",
+   "updatedAt": "2026-10-11T22:51:54.267Z",
+   "bytes": 20972,
+   "boundProject": null
+  },
+  {
+   "projectId": "conversation-codex-30e1d83bcd3b1a59297d5d27",
+   "strength": "bound",
+   "lines": 0,
+   "work": 0,
+   "prompts": 0,
+   "first": null,
+   "last": null,
    "conversationId": "codex:01a11512-e805-7982-9f7a-8283895cd8ee",
    "provider": "codex",
    "sessionId": "01a11512-e805-7982-9f7a-8283895cd8ee",
-   "title": "Conversation codex 01a11512",
-   "updatedAt": "2026-10-07T09:44:21.856Z",
-   "bytes": 2625474,
+   "title": "01a11512-e805-7982-9f7a-8283895cd8ee",
+   "updatedAt": null,
+   "bytes": 0,
    "boundProject": "conversation-codex-30e1d83bcd3b1a59297d5d27"
   }
  ]
